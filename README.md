@@ -13,7 +13,7 @@ If the version of each of them appears, they are installed correctly.
 then install expo cli by running following command
 npm i -g expo-cli
 then we install git from https://git-scm.com/downloads
-then we clone the project from github by running following comman inside an empty folder
+then we clone the project from github by running following command inside an empty folder in the git bash
 git clone https://github.com/shady-byte/Movie_project
 after that open the folder in terminal and run npm intall
 to install npm Dependencies 
