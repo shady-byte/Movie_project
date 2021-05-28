@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "task-react-project",
-    "slug": "task-react-project",
+    "name": "Movie_project",
+    "slug": "movie_project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "it is an application about displaying movies and some details about them "
   }
 }
