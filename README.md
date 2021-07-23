@@ -20,3 +20,11 @@ to install npm Dependencies
 
 after that open project in vscode and run in the terminal 
 npm start
+
+
+Screenshots from the application
+<table>
+  <tr>
+    <td><td>
+  </tr>
+</table>
