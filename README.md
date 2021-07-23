@@ -25,6 +25,7 @@ npm start
 Screenshots from the application
 <table>
   <tr>
-    <td><td>
+    <td><img src="https://user-images.githubusercontent.com/76439620/126825832-0212a4e3-1354-48f4-9639-0159e8788f55.jpg" width=220 height=450><td>
+    <td><img src="https://user-images.githubusercontent.com/76439620/126825891-a7e9ff49-eb8c-4bbc-94e1-98712ece3488.jpg" width=220 height=450><td>
   </tr>
 </table>
